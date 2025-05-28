@@ -23,12 +23,12 @@ Skills
 ---
 Education
 
-    MSc Cognitive Science (Neuroscience & AI)
-
+    3 years PhD research in Computational Linguistics (sociolinguistic dynamics)
+    
     BSc Cognitive Psychology (Ergonomics)
 
-    3 years PhD research in Computational Linguistics (sociolinguistic dynamics)
-
+    MSc Cognitive Science (Neuroscience & AI)
+    
 ---
 Looking For
 
