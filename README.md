@@ -1,7 +1,40 @@
-- Hi, I’m Jean-Baptiste Chaudron
-- I'm mainly interested Data science, system dynamic and computational cognitive sciences.
+Jean-Baptiste Chaudron
+Data Scientist | Cognitive Science & NLP Enthusiast
 
-<!---
-jb-chaudron/jb-chaudron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+--- 
+About Me
+
+    Interdisciplinary background: Cognitive Science, Neuroscience, Computational Linguistics
+
+    Passionate about data-driven problem-solving and system dynamics
+
+---
+Skills
+
+    Data Analysis & Visualization
+
+    Time Series Analysis, Forecasting
+
+    Classification & Regression
+
+    Natural Language Processing (NLP)
+
+    Python (PyTorch, SpaCy), SQL
+---
+Education
+
+    MSc Cognitive Science (Neuroscience & AI)
+
+    BSc Cognitive Psychology (Ergonomics)
+
+    3 years PhD research in Computational Linguistics (sociolinguistic dynamics)
+
+---
+Looking For
+
+    Data Scientist roles (NLP, forecasting, analytics)
+
+    Opportunities to apply research & technical skills in real-world projects
+
+Let’s Connect!
+Open to collaboration and new challenges.
