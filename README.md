@@ -10,13 +10,14 @@ About Me
 
 ---
 Some Projects
-    Cognitive Modelling & Experiments
+
+Cognitive Modelling & Experiments
     
-    [Simulating Cognition bias with Compression-Decompression algorithms](https://github.com/jb-chaudron/Neural-Gas-MCMC)
+- [Simulating Cognition bias with Compression-Decompression algorithms](https://github.com/jb-chaudron/Neural-Gas-MCMC)
     
-    [An experiment to test the Huang-Paschler hypothesis on consciousness](https://github.com/jb-chaudron/Boolean-Map-Design-Optimisation)
+- [An experiment to test the Huang-Paschler hypothesis on consciousness](https://github.com/jb-chaudron/Boolean-Map-Design-Optimisation)
     
-    [A Connectivity iEEG analysis](https://github.com/jb-chaudron/inet-vanilla)
+- [A Connectivity iEEG analysis](https://github.com/jb-chaudron/inet-vanilla)
     
 ---
 Skills
