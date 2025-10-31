@@ -9,6 +9,12 @@ About Me
     Passionate about data-driven problem-solving and system dynamics
 
 ---
+Some Projects
+    Cognitive Modelling & Experiments
+    - [Simulating Cognition bias with Compression-Decompression algorithms](https://github.com/jb-chaudron/Neural-Gas-MCMC)
+    - https://github.com/jb-chaudron/Boolean-Map-Design-Optimisation
+    
+---
 Skills
 
     Data Analysis & Visualization
