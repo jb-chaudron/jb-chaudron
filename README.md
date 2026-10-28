@@ -41,7 +41,7 @@ times — prospective prediction of response-time distributions, ordinal measure
 
 - **Independent consultant** — R&D / ML engineering / fractional CSO (since Nov 2025)
 - **Research engineer in computational linguistics** — 3 years, behavioral modelling on social network data
-- **MSc Cognitive Science** (Neuroscience & AI) · **BSc Cognitive Psychology** (Ergonomics)
+- **MSc Cognitive Science** (Neuroscience & AI) · **BSc Cognitive Psychology** 
 
 ## Toolbox
 
