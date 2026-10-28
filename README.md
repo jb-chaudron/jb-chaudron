@@ -1,65 +1,52 @@
-Jean-Baptiste Chaudron
-Data Scientist | Cognitive Science & Neurotech
+# Jean-Baptiste Chaudron
 
---- 
-About Me
+**Independent R&D Consultant — Neurotechnology & Machine Learning**
 
-    Interdisciplinary background: Cognitive Science, Neuroscience, Computational Linguistics
+📍 Toulouse · 🔗 [LinkedIn](www.linkedin.com/in/jean-baptiste-chaudron-datascientist) · ✉️ chaudron.data@gmail.com
 
-    Passionate about data-driven problem-solving and system dynamics
+> I model human behavior from traces — EEG & biosignals, response times, digital traces —
+> and help neurotech startups and research labs go from idea to product: feasibility
+> review, experimental protocols, ML model development, deployment with monitoring.
 
----
-Some Projects
+## What I Do
 
-Cognitive Modelling & Experiments
-    
-- [Simulating Cognition bias with Compression-Decompression algorithms](https://github.com/jb-chaudron/Neural-Gas-MCMC)
-    
-- [An experiment to test the Huang-Paschler hypothesis on consciousness](https://github.com/jb-chaudron/Boolean-Map-Design-Optimisation)
-    
-- [A Connectivity iEEG analysis](https://github.com/jb-chaudron/inet-vanilla)
+- **EEG & biosignal ML** — drowsiness detection, emotion recognition, uncertainty-aware prediction
+- **Behavioral modelling** — sequential sampling models (Wald, DDM), mathematical psychology, psychometrics
+- **ML R&D** — benchmarks, calibration & conformal prediction, foundation models on signals
+- **Fractional CSO** — R&D roadmaps, feasibility studies, academia–industry interface
 
-- [A Classifier based on Human Cognition](https://github.com/jb-chaudron/GCM-exemplar-classifier)
+## Selected Projects
 
-- [Are free association driven by sound or meaning ?](https://github.com/jb-chaudron/free-lex)
+### Cognitive Modelling & Experiments
+- [Testing the Huang & Pashler hypothesis on visual consciousness](https://github.com/jb-chaudron/Boolean-Map-Design-Optimisation) — experimental design & analysis
+- [Simulating cognitive biases with compression–decompression algorithms](https://github.com/jb-chaudron/Neural-Gas-MCMC)
+- [iEEG connectivity analysis](https://github.com/jb-chaudron/inet-vanilla) — intracranial EEG signal processing
+- [A classifier based on human category learning](https://github.com/jb-chaudron/GCM-exemplar-classifier) — exemplar theory (GCM)
+- [Free association: driven by sound or meaning?](https://github.com/jb-chaudron/free-lex)
 
-NLP & Neural Networks
+### NLP, Neural Networks & other modelling
+- [Automatic literature reviewer](https://github.com/jb-chaudron/automated_litterature_reviewer) — automated systematic review of a research field
+- [RAG with embedding fine-tuning](https://github.com/jb-chaudron/toy-chatbot)
+- [Binding two embedding spaces with a neural homeomorphism](https://github.com/jb-chaudron/Evaluation_Gutenberg)
+- [Lexico-grammatical classification of Wikipedia authors](https://github.com/jb-chaudron/Wikipedia-Stylistiques-Analyses)
+- [Feature selection with ElasticNet](https://github.com/jb-chaudron/wikipedia-MRMR-tag)
+- [A PINN to simulate stylistic trajectories of texts](https://github.com/jb-chaudron/Gravitational-model-of-text-evolution)
 
-- [Simple Lexico-grammatical based classification](https://github.com/jb-chaudron/Wikipedia-Stylistiques-Analyses)
-- [Using ElasticNet to perform feature selection](https://github.com/jb-chaudron/wikipedia-MRMR-tag)
-- [A PINNS to simulate stylistic trajectories](https://github.com/jb-chaudron/Gravitational-model-of-text-evolution)
-- [A little RAG project with embedding fintetuning](https://github.com/jb-chaudron/toy-chatbot)
-- [A Neural Network to find an homeomorphism and bind two embedding spaces](https://github.com/jb-chaudron/Evaluation_Gutenberg)
-- [An automatic litterature review project](https://github.com/jb-chaudron/automated_litterature_reviewer)
+## Currently
 
+Building a behavioral measurement framework for sleepiness from EEG and response
+times — prospective prediction of response-time distributions, ordinal measurement models.
 
----
-Skills
+## Background
 
-    Data Analysis & Visualization
+- **Independent consultant** — R&D / ML engineering / fractional CSO (since Nov 2025)
+- **Research engineer in computational linguistics** — 3 years, behavioral modelling on social network data
+- **MSc Cognitive Science** (Neuroscience & AI) · **BSc Cognitive Psychology** (Ergonomics)
 
-    Time Series Analysis, Forecasting
+## Toolbox
 
-    Classification & Regression
+Python · PyTorch · MNE · scikit-learn · MAPIE · Docker · SQL
 
-    Natural Language Processing (NLP)
+## Let's Talk
 
-    Python (PyTorch, SpaCy), SQL
----
-Education
-
-    3 years PhD research in Computational Linguistics (sociolinguistic dynamics)
-    
-    BSc Cognitive Psychology (Ergonomics)
-
-    MSc Cognitive Science (Neuroscience & AI)
-    
----
-Looking For
-
-    Data Scientist roles (NLP, forecasting, analytics)
-
-    Opportunities to apply research & technical skills in real-world projects
-
-Let’s Connect!
-Open to collaboration and new challenges.
+Open to consulting missions — audits, feasibility studies, R&D projects, fractional CSO.
