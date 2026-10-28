@@ -18,6 +18,7 @@
 ## Selected Projects
 
 ### Cognitive Modelling & Experiments
+- [A IMU based EEG noise removal](https://github.com/jb-chaudron/EmotivPhysicIMU)
 - [Testing the Huang & Pashler hypothesis on visual consciousness](https://github.com/jb-chaudron/Boolean-Map-Design-Optimisation) — experimental design & analysis
 - [Simulating cognitive biases with compression–decompression algorithms](https://github.com/jb-chaudron/Neural-Gas-MCMC)
 - [iEEG connectivity analysis](https://github.com/jb-chaudron/inet-vanilla) — intracranial EEG signal processing
