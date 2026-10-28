@@ -1,5 +1,5 @@
 Jean-Baptiste Chaudron
-Data Scientist | Cognitive Science & NLP Enthusiast
+Data Scientist | Cognitive Science & Neurotech
 
 --- 
 About Me
